@@ -8,3 +8,4 @@ C:\Users\mateu\source\repos\array 2\array 2\obj\Debug\netcoreapp3.1\array 2.Asse
 C:\Users\mateu\source\repos\array 2\array 2\obj\Debug\netcoreapp3.1\array 2.AssemblyInfo.cs
 C:\Users\mateu\source\repos\array 2\array 2\obj\Debug\netcoreapp3.1\array 2.dll
 C:\Users\mateu\source\repos\array 2\array 2\obj\Debug\netcoreapp3.1\array 2.pdb
+C:\Users\mateu\source\repos\array 2\array 2\obj\Debug\netcoreapp3.1\array 2.csprojAssemblyReference.cache
