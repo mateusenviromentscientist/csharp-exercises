@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\do it do ex\do it do ex\bin\Debug\netcoreapp3.1\do it do ex.exe
+C:\Users\mateu\source\repos\do it do ex\do it do ex\bin\Debug\netcoreapp3.1\do it do ex.deps.json
+C:\Users\mateu\source\repos\do it do ex\do it do ex\bin\Debug\netcoreapp3.1\do it do ex.runtimeconfig.json
+C:\Users\mateu\source\repos\do it do ex\do it do ex\bin\Debug\netcoreapp3.1\do it do ex.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\do it do ex\do it do ex\bin\Debug\netcoreapp3.1\do it do ex.dll
+C:\Users\mateu\source\repos\do it do ex\do it do ex\bin\Debug\netcoreapp3.1\do it do ex.pdb
+C:\Users\mateu\source\repos\do it do ex\do it do ex\obj\Debug\netcoreapp3.1\do it do ex.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\do it do ex\do it do ex\obj\Debug\netcoreapp3.1\do it do ex.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\do it do ex\do it do ex\obj\Debug\netcoreapp3.1\do it do ex.AssemblyInfo.cs
+C:\Users\mateu\source\repos\do it do ex\do it do ex\obj\Debug\netcoreapp3.1\do it do ex.dll
+C:\Users\mateu\source\repos\do it do ex\do it do ex\obj\Debug\netcoreapp3.1\do it do ex.pdb
