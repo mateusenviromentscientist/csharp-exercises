@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\bin\Debug\netcoreapp3.1\oi_mundo.exe
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\bin\Debug\netcoreapp3.1\oi_mundo.deps.json
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\bin\Debug\netcoreapp3.1\oi_mundo.runtimeconfig.json
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\bin\Debug\netcoreapp3.1\oi_mundo.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\bin\Debug\netcoreapp3.1\oi_mundo.dll
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\bin\Debug\netcoreapp3.1\oi_mundo.pdb
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\obj\Debug\netcoreapp3.1\oi_mundo.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\obj\Debug\netcoreapp3.1\oi_mundo.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\obj\Debug\netcoreapp3.1\oi_mundo.AssemblyInfo.cs
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\obj\Debug\netcoreapp3.1\oi_mundo.dll
+C:\Users\mateu\source\repos\oi_mundo\oi_mundo\obj\Debug\netcoreapp3.1\oi_mundo.pdb
