@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\f1\f1\bin\Debug\netcoreapp3.1\f1.exe
+C:\Users\mateu\source\repos\f1\f1\bin\Debug\netcoreapp3.1\f1.deps.json
+C:\Users\mateu\source\repos\f1\f1\bin\Debug\netcoreapp3.1\f1.runtimeconfig.json
+C:\Users\mateu\source\repos\f1\f1\bin\Debug\netcoreapp3.1\f1.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\f1\f1\bin\Debug\netcoreapp3.1\f1.dll
+C:\Users\mateu\source\repos\f1\f1\bin\Debug\netcoreapp3.1\f1.pdb
+C:\Users\mateu\source\repos\f1\f1\obj\Debug\netcoreapp3.1\f1.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\f1\f1\obj\Debug\netcoreapp3.1\f1.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\f1\f1\obj\Debug\netcoreapp3.1\f1.AssemblyInfo.cs
+C:\Users\mateu\source\repos\f1\f1\obj\Debug\netcoreapp3.1\f1.dll
+C:\Users\mateu\source\repos\f1\f1\obj\Debug\netcoreapp3.1\f1.pdb

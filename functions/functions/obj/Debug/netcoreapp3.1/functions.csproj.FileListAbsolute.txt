@@ -1,0 +1,11 @@
+C:\Users\mateu\source\repos\functions\functions\bin\Debug\netcoreapp3.1\functions.exe
+C:\Users\mateu\source\repos\functions\functions\bin\Debug\netcoreapp3.1\functions.deps.json
+C:\Users\mateu\source\repos\functions\functions\bin\Debug\netcoreapp3.1\functions.runtimeconfig.json
+C:\Users\mateu\source\repos\functions\functions\bin\Debug\netcoreapp3.1\functions.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\functions\functions\bin\Debug\netcoreapp3.1\functions.dll
+C:\Users\mateu\source\repos\functions\functions\bin\Debug\netcoreapp3.1\functions.pdb
+C:\Users\mateu\source\repos\functions\functions\obj\Debug\netcoreapp3.1\functions.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\functions\functions\obj\Debug\netcoreapp3.1\functions.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\functions\functions\obj\Debug\netcoreapp3.1\functions.AssemblyInfo.cs
+C:\Users\mateu\source\repos\functions\functions\obj\Debug\netcoreapp3.1\functions.dll
+C:\Users\mateu\source\repos\functions\functions\obj\Debug\netcoreapp3.1\functions.pdb
